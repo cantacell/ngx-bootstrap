@@ -1,8 +1,8 @@
 /* tslint:disable: max-classes-per-file */
 import { AccordionModule } from './accordion/accordion.module';
 import { AlertModule } from './alert/alert.module';
-import { ButtonsModule } from './buttons/buttons.module';
-import { CarouselModule } from './carousel/carousel.module';
+// import { ButtonsModule } from './buttons/buttons.module';
+// import { CarouselModule } from './carousel/carousel.module';
 import { CollapseModule } from './collapse/collapse.module';
 import { BsDaterangepickerConfig } from './datepicker/bs-daterangepicker.config';
 import { DatepickerModule } from './datepicker/datepicker.module';
@@ -11,8 +11,8 @@ import { ModalModule } from './modal/modal.module';
 import { PaginationModule } from './pagination/pagination.module';
 import { PopoverModule } from './popover/popover.module';
 import { ProgressbarModule } from './progressbar/progressbar.module';
-import { RatingModule } from './rating/rating.module';
-import { SortableModule } from './sortable/index';
+// import { RatingModule } from './rating/rating.module';
+// import { SortableModule } from './sortable/index';
 import { TabsModule } from './tabs/tabs.module';
 import { TimepickerModule } from './timepicker/timepicker.module';
 import { TooltipModule } from './tooltip/tooltip.module';
@@ -30,18 +30,18 @@ export {
 
 export { AlertComponent, AlertConfig, AlertModule } from './alert/index';
 
-export {
+/*export {
   ButtonCheckboxDirective,
   ButtonRadioDirective,
   ButtonsModule
-} from './buttons/index';
+} from './buttons/index';*/
 
-export {
+/*export {
   CarouselComponent,
   CarouselConfig,
   CarouselModule,
   SlideComponent
-} from './carousel/index';
+} from './carousel/index';*/
 
 export { CollapseDirective, CollapseModule } from './collapse/index';
 
@@ -96,15 +96,15 @@ export {
   ProgressbarModule
 } from './progressbar/index';
 
-export { RatingComponent, RatingModule } from './rating/index';
+// export { RatingComponent, RatingModule } from './rating/index';
 
-export {
+/*export {
   DraggableItem,
   DraggableItemService,
   SortableItem,
   SortableComponent,
   SortableModule
-} from './sortable/index';
+} from './sortable/index';*/
 
 export {
   NgTranscludeDirective,
@@ -151,12 +151,12 @@ export {
   ContentRef
 } from './component-loader/index';
 
-export {
+/*export {
   Positioning,
   PositioningOptions,
   PositioningService,
   positionElements
-} from './positioning/index';
+} from './positioning/index';*/
 
 export { defineLocale, getSetGlobalLocale, LocaleData } from './chronos/index';
 
