@@ -1,0 +1,1 @@
+[{"__symbolic":"module","version":4,"metadata":{},"exports":[{"from":"./chronos/i18n/de","export":["deLocale"]},{"from":"./chronos/i18n/en-gb","export":["enGbLocale"]},{"from":"./chronos/i18n/es","export":["esLocale"]},{"from":"./chronos/i18n/fr","export":["frLocale"]},{"from":"./chronos/i18n/it","export":["itLocale"]}]}]
